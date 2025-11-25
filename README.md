@@ -11,7 +11,8 @@ Building reliable software, scalable data platforms, and AI solutions.
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 </p>
 
 ---
@@ -28,7 +29,7 @@ Outside of work, I enjoy contributing to open source, learning new technologies,
 
 ### Languages
 
-Python • Go • JavaScript
+Python • Go • TypeScript • C++
 
 ### Frameworks
 
@@ -36,11 +37,11 @@ Django • DRF • FastAPI • Flask • Odoo • Gin
 
 ### AI
 
-LangChain • LangGraph • RAG • Vector Search
+LangChain • LangGraph • LangSmith • DeepEval • MCP • RAG • Vector Search
 
 ### Databases
 
-PostgreSQL • MySQL • Oracle • MongoDB
+PostgreSQL • PostGIS • pgvector • MySQL • Oracle • MongoDB
 
 ### ORMs
 
@@ -52,7 +53,7 @@ RabbitMQ • Redis • Celery
 
 ### DevOps & Cloud
 
-Docker • Kubernetes • Git • GitHub Actions • Azure • AWS • Google Cloud
+Docker • Kubernetes • Git • GitHub Actions • Terraform • Azure • AWS • Google Cloud
 
 ### Monitoring
 
