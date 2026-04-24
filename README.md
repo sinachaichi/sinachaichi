@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 7+ years of experience building scalable back-ends, data pipelines, and cloud-native solutions  
+- 8+ years of experience building scalable back-ends, data pipelines, and cloud-native solutions  
 - 🎓 BSc Mathematics & Mechanical Engineering · MSc Mechanical Engineering  
 - 🌍 Based in Belgium & working at **Beeodiversity**  
 - 🚀 Building the BeeO ecosystem: platforms powered by AI, data pipelines, and environmental analytics
