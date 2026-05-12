@@ -21,10 +21,10 @@
 ### ⚡ Tech Stack
 
 - **Languages:** Python · Go · JavaScript  
-- **Frameworks:** Django, Django REST Framework, Flask, FastAPI, Odoo, Gin
+- **Frameworks:** Django, Django REST Framework, Flask, FastAPI, Odoo, Gin, LangChain, LangGraph
 - **Databases:** PostgreSQL, MySQL, Oracle, Celery, Redis, RabbitMQ, MongoDB, Django ORM, SQLAlchemy, GORM
-- **DevOps:** Git, Docker, CI/CD, Azure, AWS, Kubernetes, Nginx, Apache, Grafana, Sentry  
-- **Other:** Blockchain, Data Engineering
+- **DevOps:** Git, Docker, CI/CD, Azure, AWS, Google Cloud, Kubernetes, Nginx, Apache, Grafana, Sentry  
+- **Other:** AI, Blockchain, Data Engineering
 
 ---
 
