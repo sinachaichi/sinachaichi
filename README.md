@@ -81,10 +81,10 @@ Grafana • Sentry
 
 Outside of code:
 
-- ♟️ Playing chess
-- 📚 Reading books
-- 🎨 Painting
-- 🌍 Learning languages
+- 📚 Bookworm
+- 🎨 Hobbyist Painter
+- ♟️ Chess Enthusiast
+- 🌍 Language Learner
 
 ---
 
