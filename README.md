@@ -19,9 +19,7 @@ Building reliable software, scalable data platforms, and AI solutions.
 ## About Me
 
 I'm a software engineer based in Belgium, building backend systems, data platforms, and AI applications.
-
 I enjoy designing reliable software, evolving existing products, improving architecture, optimizing performance, and building scalable systems that are easy to maintain.
-
 Outside of work, I enjoy contributing to open source, learning new technologies, and exploring how complex systems work.
 
 ---
