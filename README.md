@@ -94,23 +94,15 @@ Outside of code:
 
 - 🇮🇷 Persian (Native)
 - 🇹🇷 Turkish (Native)
-- 🇬🇧 English
-- 🇫🇷 French
+- 🇬🇧 English (Professional)
+- 🇫🇷 French (Intermediate)
 - 🇩🇪 German (Basic)
 
 ---
 
 ## Contact
 
-📍 Ghent, Belgium
-
 📧 <a href="mailto:sina.chaichi2020@gmail.com">sina.chaichi2020@gmail.com</a>
 
 💼 <a href="https://www.linkedin.com/in/sinachaichi">LinkedIn</a>
 
----
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sinachaichi&show_icons=true&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinachaichi&layout=compact&hide_border=true"/>
-</p>
