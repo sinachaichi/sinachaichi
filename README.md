@@ -30,7 +30,7 @@ Outside of work, I enjoy contributing to open source, learning new technologies,
 
 Python • Go • JavaScript
 
-### Backend
+### Frameworks
 
 Django • DRF • FastAPI • Flask • Odoo • Gin
 
